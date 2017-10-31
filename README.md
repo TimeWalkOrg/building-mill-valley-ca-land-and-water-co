@@ -1,4 +1,4 @@
-# The Tamalpais Land and Water Company building
+# The Tamalpais Land and Water Company Building
 
 The building from which Mill Valley properties were auctioned off.
 
