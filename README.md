@@ -18,7 +18,7 @@ This is the building from which Mill Valley properties were auctioned off.
 - Model completed: December, 2017
 - Modeled in SketchUp Make 2017
 
-![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-keystone-building/blob/master/keystone-building-1920.jpg)
+![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-land-and-water-co/blob/master/mill-valley-land-and-water-co-1920.jpg)
 
 ### Online references & photographs
 * [SF Genealogy](http://www.sfgenealogy.com/marin/ourtowns/ot_mv.htm)
