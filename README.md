@@ -3,8 +3,7 @@
 
 ## Building History
 
-In the 1920s this building (describe the building purpose in 1920)...
-This is the building from which Mill Valley properties were auctioned off.
+This is the building from which Mill Valley properties were auctioned off at the 1890 auction.  We believe it was still standing in 1920, though we have no photos from that period.
 
 - Built: c.tbd
 - Replaced: c.tbd
@@ -27,6 +26,10 @@ This is the building from which Mill Valley properties were auctioned off.
 ![Building](https://github.com/TimeWalkOrg/building-mill-valley-ca-land-and-water-co/blob/master/OTTamlandwater.gif)
 ![1890s](https://github.com/TimeWalkOrg/building-mill-valley-ca-land-and-water-co/blob/master/1890s-tlw.jpg)
 
+
+### To Do
+- Confirm appearance of building in 1920
+- Find construction date
 
 ## TimeWalk Images
 ![TimeWalk Unity Model](tbd)
